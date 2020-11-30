@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mi_boton_de_panico.iml" filepath="$PROJECT_DIR$/.idea/modules/Mi_boton_de_panico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Mi_boton_de_panico.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Mi_boton_de_panico.app.iml" />
+    </modules>
+  </component>
+</project>
